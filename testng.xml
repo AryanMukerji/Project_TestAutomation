@@ -1,0 +1,25 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="TestAutomation">
+	<test name="jenkinsTest">
+		<classes>
+			<class name="mod1.TA.Login"></class>
+			<class name="mod1.TA.ExcelReader"></class>
+			<class name="mod1.TA.MozillaLogin"></class>
+			<class name="mod1.TA.ProjectExtentReports"></class>
+			<class name="mod1.TA.Registration"></class>
+			<class name="mod1.TA.SearchOne"></class>
+			<class name="mod1.TA.SearchTwo"></class>
+			<class name="mod1.TA.LoginDataProvider"></class>
+			<class name="mod2.TA.ProjectArticleDetails"></class>
+			<class name="mod2.TA.ProjectLoggerTest"></class>
+			<class name="mod2.TA.ProjectLogin"></class>
+			<class name="mod2.TA.ProjectSearch"></class>
+			<class name="mod3.TA.TestNGLogin"></class>
+			<class name="mod3.TA.TestNGRegistration"></class>
+			<class name="mod3.TA.TestNGSearchOne"></class>
+			<class name="mod3.TA.TestNGSearchTwo"></class>
+			<class name="mod4.TA.ProjectJenkins"></class>
+		</classes>
+	</test>
+</suite>
