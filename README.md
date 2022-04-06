@@ -17,3 +17,12 @@
 
 ![image5](https://github.com/AryanMukerji/Project_TestAutomation/blob/main/Project%20Screenshots/1649224477219.png)
 
+
+![image6](https://github.com/AryanMukerji/Project_TestAutomation/blob/main/Project%20Screenshots/1649224487697.png)
+
+
+![image7](https://github.com/AryanMukerji/Project_TestAutomation/blob/main/Project%20Screenshots/1649224488540.png)
+
+
+![image8](https://github.com/AryanMukerji/Project_TestAutomation/blob/main/Project%20Screenshots/1649224495025.png)
+
