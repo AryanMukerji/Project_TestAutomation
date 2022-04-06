@@ -25,7 +25,7 @@ public class SearchOne
 		c = driver.findElement(By.id("Player_Roster")).isDisplayed();
 		d = driver.findElement(By.xpath("//*[@id=\"History\"]")).isDisplayed();
 		
-		System.out.println("\n a: " + a + "\n b: " + b + "\n c: " + c + "\n d: " + d);
+		System.out.println("\n a: " + a + "\n b: " + b + "\n c: " + c + "\n d: " + d + "\n");
 		
 		driver.close();
 	}

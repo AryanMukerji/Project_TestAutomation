@@ -65,7 +65,7 @@ public class ProjectArticleDetails
 		h1 = driver.findElement(By.className("infobox-cell-2"));
 		
 		System.out.println("\n e: " + e + "\n f: " + f + "\n g: " + g + "\n h: " + h);
-		System.out.println("\n e: "+ e1.getTagName() + "\n f: " + f1.getText() + "\n g: " + g1.getText() + "\n h: " + h1.getText());
+		System.out.println("\n e: "+ e1.getTagName() + "\n f: " + f1.getText() + "\n g: " + g1.getText() + "\n h: " + h1.getText() + "\n");
 		
 		ProjectBase.captureScreenshort(driver);
 		

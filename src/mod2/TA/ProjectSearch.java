@@ -28,7 +28,7 @@ public class ProjectSearch
 		WebElement p44 = driver.findElement(By.xpath("//*[@id=\"mw-content-text\"]/div/div[3]/div/div[2]/div[2]/div/div[1]/div[2]/div/ul/li[1]/span"));
 		
 		System.out.println("\n p1 = " + p1 + "\n p2 = " + p2 + "\n p3 = " + p3 + "\n p4 = " + p4);
-		System.out.println("\n p11 = " + p11.getText() + "\n p22 = " + p22.getText() + "\n p33 = " + p33.getText() + "\n p44 = " + p44.getText());
+		System.out.println("\n p11 = " + p11.getText() + "\n p22 = " + p22.getText() + "\n p33 = " + p33.getText() + "\n p44 = " + p44.getText() + "\n");
 		
 		ProjectBase.captureScreenshort(driver);
 		

@@ -28,6 +28,7 @@ public class ProjectJenkins
 						 + "\n mod3.TA.TestNGRegistration "
 						 + "\n mod3.TA.TestNGSearchOne "
 						 + "\n mod3.TA.TestNGSearchTwo "
+						 + "\n mod3.TA.TestNGAssertions "
 						 + "\n =============================== "
 						 + "\n mod4.TA.ProjectJenkins "
 						 + "\n =============================== ");

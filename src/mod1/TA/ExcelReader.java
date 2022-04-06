@@ -76,8 +76,9 @@ public class ExcelReader
 		driver.findElement(By.id("wpName1")).sendKeys(Email);
 		driver.findElement(By.id("wpPassword1")).sendKeys(Password);
 		driver.findElement(By.id("wpLoginAttempt")).click();
-		driver.close();
 		
 		System.out.println("\n Email Used : " + Email + "\n Password Used : " + Password + "\n");
+		
+		driver.close();
 	}
 }

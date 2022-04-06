@@ -39,7 +39,7 @@ public class TestNGSearchOne
 	@AfterTest
 	public void afterSearchOne()
 	{
-		System.out.println("\n a: " + a + "\n b: " + b + "\n c: " + c + "\n d: " + d);
+		System.out.println("\n a: " + a + "\n b: " + b + "\n c: " + c + "\n d: " + d + "\n");
 		
 		driver.close();
 	}

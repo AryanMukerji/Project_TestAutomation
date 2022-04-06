@@ -19,6 +19,7 @@
 			<class name="mod3.TA.TestNGRegistration"></class>
 			<class name="mod3.TA.TestNGSearchOne"></class>
 			<class name="mod3.TA.TestNGSearchTwo"></class>
+			<class name="mod3.TA.TestNGAssertions"></class>
 			<class name="mod4.TA.ProjectJenkins"></class>
 		</classes>
 	</test>
