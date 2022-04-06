@@ -14,109 +14,106 @@
       <![CDATA[Browser Is Now Closed]]>
     </line>
   </reporter-output>
-  <suite started-at="2022-04-06T20:04:39 IST" name="TestAutomation" finished-at="2022-04-06T20:05:47 IST" duration-ms="67925">
+  <suite started-at="2022-04-06T22:37:13 IST" name="TestAutomation" finished-at="2022-04-06T22:38:34 IST" duration-ms="80268">
     <groups>
     </groups>
-    <test started-at="2022-04-06T20:04:39 IST" name="jenkinsTest" finished-at="2022-04-06T20:05:47 IST" duration-ms="67925">
+    <test started-at="2022-04-06T22:37:13 IST" name="jenkinsTest" finished-at="2022-04-06T22:38:34 IST" duration-ms="80268">
       <class name="mod1.TA.ProjectExtentReports">
-        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T20:04:39 IST" name="launchingBrowser" finished-at="2022-04-06T20:04:44 IST" duration-ms="5079" status="PASS">
+        <test-method is-config="true" signature="launchingBrowser()[pri:0, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T22:37:13 IST" name="launchingBrowser" finished-at="2022-04-06T22:37:18 IST" duration-ms="5239" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchingBrowser -->
-        <test-method is-config="true" signature="initializeReport()[pri:0, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T20:05:03 IST" name="initializeReport" finished-at="2022-04-06T20:05:04 IST" duration-ms="456" status="PASS">
+        <test-method is-config="true" signature="initializeReport()[pri:0, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T22:37:37 IST" name="initializeReport" finished-at="2022-04-06T22:37:38 IST" duration-ms="507" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- initializeReport -->
-        <test-method signature="verifyingTitle()[pri:0, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T20:05:04 IST" name="verifyingTitle" finished-at="2022-04-06T20:05:04 IST" duration-ms="15" status="PASS">
+        <test-method signature="verifyingTitle()[pri:0, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T22:37:38 IST" name="verifyingTitle" finished-at="2022-04-06T22:37:38 IST" duration-ms="35" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyingTitle -->
-        <test-method signature="goToValorant()[pri:1, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T20:05:04 IST" name="goToValorant" finished-at="2022-04-06T20:05:07 IST" duration-ms="3698" status="PASS">
+        <test-method signature="goToValorant()[pri:1, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T22:37:38 IST" name="goToValorant" finished-at="2022-04-06T22:37:43 IST" duration-ms="5223" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- goToValorant -->
-        <test-method signature="clickOnSign()[pri:2, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T20:05:07 IST" name="clickOnSign" finished-at="2022-04-06T20:05:09 IST" duration-ms="1354" status="PASS">
+        <test-method signature="clickOnSign()[pri:2, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T22:37:43 IST" name="clickOnSign" finished-at="2022-04-06T22:37:44 IST" duration-ms="1378" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickOnSign -->
-        <test-method signature="enterYourLoginName()[pri:3, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T20:05:09 IST" name="enterYourLoginName" finished-at="2022-04-06T20:05:09 IST" duration-ms="117" status="PASS">
+        <test-method signature="enterYourLoginName()[pri:3, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T22:37:44 IST" name="enterYourLoginName" finished-at="2022-04-06T22:37:44 IST" duration-ms="119" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- enterYourLoginName -->
-        <test-method signature="pressContinueAfterLoginNameIsEntered()[pri:4, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T20:05:09 IST" name="pressContinueAfterLoginNameIsEntered" finished-at="2022-04-06T20:05:09 IST" duration-ms="138" status="PASS">
+        <test-method signature="pressContinueAfterLoginNameIsEntered()[pri:4, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T22:37:44 IST" name="pressContinueAfterLoginNameIsEntered" finished-at="2022-04-06T22:37:45 IST" duration-ms="134" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pressContinueAfterLoginNameIsEntered -->
-        <test-method is-config="true" signature="publishingReport()[pri:0, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T20:05:09 IST" name="publishingReport" finished-at="2022-04-06T20:05:10 IST" duration-ms="552" status="PASS">
+        <test-method is-config="true" signature="publishingReport()[pri:0, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T22:37:45 IST" name="publishingReport" finished-at="2022-04-06T22:37:45 IST" duration-ms="451" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- publishingReport -->
-        <test-method is-config="true" signature="destroyingSession()[pri:0, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T20:05:45 IST" name="destroyingSession" finished-at="2022-04-06T20:05:46 IST" duration-ms="428" status="PASS">
+        <test-method is-config="true" signature="destroyingSession()[pri:0, instance:mod1.TA.ProjectExtentReports@355ce81c]" started-at="2022-04-06T22:38:27 IST" name="destroyingSession" finished-at="2022-04-06T22:38:27 IST" duration-ms="98" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- destroyingSession -->
       </class> <!-- mod1.TA.ProjectExtentReports -->
       <class name="mod4.TA.ProjectJenkins">
-        <test-method signature="jenkinsTest()[pri:0, instance:mod4.TA.ProjectJenkins@2abf4075]" started-at="2022-04-06T20:05:45 IST" name="jenkinsTest" finished-at="2022-04-06T20:05:45 IST" duration-ms="47" status="PASS">
+        <test-method signature="jenkinsTest()[pri:0, instance:mod4.TA.ProjectJenkins@2abf4075]" started-at="2022-04-06T22:38:27 IST" name="jenkinsTest" finished-at="2022-04-06T22:38:27 IST" duration-ms="11" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- jenkinsTest -->
       </class> <!-- mod4.TA.ProjectJenkins -->
       <class name="mod3.TA.TestNGSearchTwo">
-        <test-method is-config="true" signature="beforeSearchTwo()[pri:0, instance:mod3.TA.TestNGSearchTwo@503d687a]" started-at="2022-04-06T20:04:58 IST" name="beforeSearchTwo" finished-at="2022-04-06T20:05:03 IST" duration-ms="4901" status="PASS">
+        <test-method is-config="true" signature="beforeSearchTwo()[pri:0, instance:mod3.TA.TestNGSearchTwo@503d687a]" started-at="2022-04-06T22:37:33 IST" name="beforeSearchTwo" finished-at="2022-04-06T22:37:37 IST" duration-ms="4169" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSearchTwo -->
-        <test-method signature="SearchTwo()[pri:0, instance:mod3.TA.TestNGSearchTwo@503d687a]" started-at="2022-04-06T20:05:31 IST" name="SearchTwo" finished-at="2022-04-06T20:05:35 IST" duration-ms="4388" status="PASS">
+        <test-method signature="SearchTwo()[pri:0, instance:mod3.TA.TestNGSearchTwo@503d687a]" started-at="2022-04-06T22:38:12 IST" name="SearchTwo" finished-at="2022-04-06T22:38:17 IST" duration-ms="4887" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchTwo -->
-        <test-method is-config="true" signature="afterSearchOne()[pri:0, instance:mod3.TA.TestNGSearchTwo@503d687a]" started-at="2022-04-06T20:05:46 IST" name="afterSearchOne" finished-at="2022-04-06T20:05:47 IST" duration-ms="192" status="PASS">
+        <test-method is-config="true" signature="afterSearchOne()[pri:0, instance:mod3.TA.TestNGSearchTwo@503d687a]" started-at="2022-04-06T22:38:29 IST" name="afterSearchOne" finished-at="2022-04-06T22:38:34 IST" duration-ms="4329" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSearchOne -->
       </class> <!-- mod3.TA.TestNGSearchTwo -->
       <class name="mod3.TA.TestNGAssertions">
-        <test-method is-config="true" signature="beforeSearchOne()[pri:0, instance:mod3.TA.TestNGAssertions@6a370f4]" started-at="2022-04-06T20:04:44 IST" name="beforeSearchOne" finished-at="2022-04-06T20:04:47 IST" duration-ms="3060" status="PASS">
+        <test-method is-config="true" signature="beforeSearchOne()[pri:0, instance:mod3.TA.TestNGAssertions@6a370f4]" started-at="2022-04-06T22:37:18 IST" name="beforeSearchOne" finished-at="2022-04-06T22:37:22 IST" duration-ms="3166" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSearchOne -->
-        <test-method signature="searchOne()[pri:0, instance:mod3.TA.TestNGAssertions@6a370f4]" started-at="2022-04-06T20:05:35 IST" name="searchOne" finished-at="2022-04-06T20:05:41 IST" duration-ms="5376" status="PASS">
+        <test-method signature="searchOne()[pri:0, instance:mod3.TA.TestNGAssertions@6a370f4]" started-at="2022-04-06T22:38:17 IST" name="searchOne" finished-at="2022-04-06T22:38:24 IST" duration-ms="7153" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchOne -->
-        <test-method signature="SearchTwo()[pri:1, instance:mod3.TA.TestNGAssertions@6a370f4]" started-at="2022-04-06T20:05:41 IST" name="SearchTwo" finished-at="2022-04-06T20:05:45 IST" duration-ms="4541" status="PASS">
+        <test-method signature="SearchTwo()[pri:1, instance:mod3.TA.TestNGAssertions@6a370f4]" started-at="2022-04-06T22:38:24 IST" name="SearchTwo" finished-at="2022-04-06T22:38:27 IST" duration-ms="3087" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SearchTwo -->
-        <test-method is-config="true" signature="afterSearchOne()[pri:0, instance:mod3.TA.TestNGAssertions@6a370f4]" started-at="2022-04-06T20:05:46 IST" name="afterSearchOne" finished-at="2022-04-06T20:05:46 IST" duration-ms="95" status="PASS">
+        <test-method is-config="true" signature="afterSearchOne()[pri:0, instance:mod3.TA.TestNGAssertions@6a370f4]" started-at="2022-04-06T22:38:27 IST" name="afterSearchOne" finished-at="2022-04-06T22:38:27 IST" duration-ms="331" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSearchOne -->
       </class> <!-- mod3.TA.TestNGAssertions -->
-      <class name="mod1.TA.LoginDataProvider">
-        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:mod1.TA.LoginDataProvider@1649b0e6]" started-at="2022-04-06T20:05:10 IST" name="login" data-provider="LoginDataDP" finished-at="2022-04-06T20:05:10 IST" duration-ms="16" status="PASS">
-          <params>
-            <param index="0">
-              <value>
-                <![CDATA[Username1]]>
-              </value>
-            </param>
-            <param index="1">
-              <value>
-                <![CDATA[Password1]]>
-              </value>
-            </param>
-            <param index="2">
-              <value>
-                <![CDATA[Google Chrome]]>
-              </value>
-            </param>
-          </params>
+      <class name="mod2.TA.ProjectLoggerTest">
+        <test-method signature="logSample()[pri:0, instance:mod2.TA.ProjectLoggerTest@865dd6]" started-at="2022-04-06T22:37:45 IST" name="logSample" finished-at="2022-04-06T22:37:49 IST" duration-ms="3882" status="PASS">
           <reporter-output>
+            <line>
+              <![CDATA[Browser Is Now Opened]]>
+            </line>
+            <line>
+              <![CDATA[Browser Is Now Maximized]]>
+            </line>
+            <line>
+              <![CDATA[liquipedia.com Is Now Opened]]>
+            </line>
+            <line>
+              <![CDATA[Browser Is Now Closed]]>
+            </line>
           </reporter-output>
-        </test-method> <!-- login -->
-        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:mod1.TA.LoginDataProvider@1649b0e6]" started-at="2022-04-06T20:05:10 IST" name="login" data-provider="LoginDataDP" finished-at="2022-04-06T20:05:10 IST" duration-ms="0" status="PASS">
+        </test-method> <!-- logSample -->
+      </class> <!-- mod2.TA.ProjectLoggerTest -->
+      <class name="mod1.TA.LoginDataProvider">
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:mod1.TA.LoginDataProvider@1649b0e6]" started-at="2022-04-06T22:37:45 IST" name="login" data-provider="LoginDataDP" finished-at="2022-04-06T22:37:45 IST" duration-ms="5" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -137,28 +134,28 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:mod1.TA.LoginDataProvider@1649b0e6]" started-at="2022-04-06T20:05:10 IST" name="login" data-provider="LoginDataDP" finished-at="2022-04-06T20:05:10 IST" duration-ms="0" status="PASS">
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:mod1.TA.LoginDataProvider@1649b0e6]" started-at="2022-04-06T22:37:45 IST" name="login" data-provider="LoginDataDP" finished-at="2022-04-06T22:37:45 IST" duration-ms="18" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[Username3]]>
+                <![CDATA[Username1]]>
               </value>
             </param>
             <param index="1">
               <value>
-                <![CDATA[Password3]]>
+                <![CDATA[Password1]]>
               </value>
             </param>
             <param index="2">
               <value>
-                <![CDATA[Mozilla Firefox]]>
+                <![CDATA[Google Chrome]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:mod1.TA.LoginDataProvider@1649b0e6]" started-at="2022-04-06T20:05:10 IST" name="login" data-provider="LoginDataDP" finished-at="2022-04-06T20:05:10 IST" duration-ms="0" status="PASS">
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:mod1.TA.LoginDataProvider@1649b0e6]" started-at="2022-04-06T22:37:45 IST" name="login" data-provider="LoginDataDP" finished-at="2022-04-06T22:37:45 IST" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -179,63 +176,66 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- login -->
-      </class> <!-- mod1.TA.LoginDataProvider -->
-      <class name="mod2.TA.ProjectLoggerTest">
-        <test-method signature="logSample()[pri:0, instance:mod2.TA.ProjectLoggerTest@865dd6]" started-at="2022-04-06T20:05:10 IST" name="logSample" finished-at="2022-04-06T20:05:14 IST" duration-ms="4001" status="PASS">
+        <test-method signature="login(java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:mod1.TA.LoginDataProvider@1649b0e6]" started-at="2022-04-06T22:37:45 IST" name="login" data-provider="LoginDataDP" finished-at="2022-04-06T22:37:45 IST" duration-ms="11" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Username3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Password3]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Mozilla Firefox]]>
+              </value>
+            </param>
+          </params>
           <reporter-output>
-            <line>
-              <![CDATA[Browser Is Now Opened]]>
-            </line>
-            <line>
-              <![CDATA[Browser Is Now Maximized]]>
-            </line>
-            <line>
-              <![CDATA[liquipedia.com Is Now Opened]]>
-            </line>
-            <line>
-              <![CDATA[Browser Is Now Closed]]>
-            </line>
           </reporter-output>
-        </test-method> <!-- logSample -->
-      </class> <!-- mod2.TA.ProjectLoggerTest -->
+        </test-method> <!-- login -->
+      </class> <!-- mod1.TA.LoginDataProvider -->
       <class name="mod3.TA.TestNGRegistration">
-        <test-method is-config="true" signature="beforeSignUp()[pri:0, instance:mod3.TA.TestNGRegistration@3972a855]" started-at="2022-04-06T20:04:51 IST" name="beforeSignUp" finished-at="2022-04-06T20:04:54 IST" duration-ms="3297" status="PASS">
+        <test-method is-config="true" signature="beforeSignUp()[pri:0, instance:mod3.TA.TestNGRegistration@3972a855]" started-at="2022-04-06T22:37:25 IST" name="beforeSignUp" finished-at="2022-04-06T22:37:29 IST" duration-ms="3857" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSignUp -->
-        <test-method signature="SignUp()[pri:0, instance:mod3.TA.TestNGRegistration@3972a855]" started-at="2022-04-06T20:05:20 IST" name="SignUp" finished-at="2022-04-06T20:05:26 IST" duration-ms="5306" status="PASS">
+        <test-method signature="SignUp()[pri:0, instance:mod3.TA.TestNGRegistration@3972a855]" started-at="2022-04-06T22:37:56 IST" name="SignUp" finished-at="2022-04-06T22:38:04 IST" duration-ms="8369" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- SignUp -->
-        <test-method is-config="true" signature="afterSignUp()[pri:0, instance:mod3.TA.TestNGRegistration@3972a855]" started-at="2022-04-06T20:05:46 IST" name="afterSignUp" finished-at="2022-04-06T20:05:46 IST" duration-ms="215" status="PASS">
+        <test-method is-config="true" signature="afterSignUp()[pri:0, instance:mod3.TA.TestNGRegistration@3972a855]" started-at="2022-04-06T22:38:28 IST" name="afterSignUp" finished-at="2022-04-06T22:38:29 IST" duration-ms="1480" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSignUp -->
       </class> <!-- mod3.TA.TestNGRegistration -->
       <class name="mod3.TA.TestNGSearchOne">
-        <test-method is-config="true" signature="beforeSearchOne()[pri:0, instance:mod3.TA.TestNGSearchOne@62e7f11d]" started-at="2022-04-06T20:04:54 IST" name="beforeSearchOne" finished-at="2022-04-06T20:04:58 IST" duration-ms="3659" status="PASS">
+        <test-method is-config="true" signature="beforeSearchOne()[pri:0, instance:mod3.TA.TestNGSearchOne@62e7f11d]" started-at="2022-04-06T22:37:29 IST" name="beforeSearchOne" finished-at="2022-04-06T22:37:33 IST" duration-ms="3952" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeSearchOne -->
-        <test-method signature="searchOne()[pri:0, instance:mod3.TA.TestNGSearchOne@62e7f11d]" started-at="2022-04-06T20:05:26 IST" name="searchOne" finished-at="2022-04-06T20:05:31 IST" duration-ms="5415" status="PASS">
+        <test-method signature="searchOne()[pri:0, instance:mod3.TA.TestNGSearchOne@62e7f11d]" started-at="2022-04-06T22:38:04 IST" name="searchOne" finished-at="2022-04-06T22:38:12 IST" duration-ms="7695" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- searchOne -->
-        <test-method is-config="true" signature="afterSearchOne()[pri:0, instance:mod3.TA.TestNGSearchOne@62e7f11d]" started-at="2022-04-06T20:05:46 IST" name="afterSearchOne" finished-at="2022-04-06T20:05:46 IST" duration-ms="178" status="PASS">
+        <test-method is-config="true" signature="afterSearchOne()[pri:0, instance:mod3.TA.TestNGSearchOne@62e7f11d]" started-at="2022-04-06T22:38:29 IST" name="afterSearchOne" finished-at="2022-04-06T22:38:29 IST" duration-ms="138" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterSearchOne -->
       </class> <!-- mod3.TA.TestNGSearchOne -->
       <class name="mod3.TA.TestNGLogin">
-        <test-method is-config="true" signature="beforeLogin()[pri:0, instance:mod3.TA.TestNGLogin@4da4253]" started-at="2022-04-06T20:04:47 IST" name="beforeLogin" finished-at="2022-04-06T20:04:51 IST" duration-ms="4340" status="PASS">
+        <test-method is-config="true" signature="beforeLogin()[pri:0, instance:mod3.TA.TestNGLogin@4da4253]" started-at="2022-04-06T22:37:22 IST" name="beforeLogin" finished-at="2022-04-06T22:37:25 IST" duration-ms="3479" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeLogin -->
-        <test-method signature="Login()[pri:0, instance:mod3.TA.TestNGLogin@4da4253]" started-at="2022-04-06T20:05:14 IST" name="Login" finished-at="2022-04-06T20:05:20 IST" duration-ms="6679" status="PASS">
+        <test-method signature="Login()[pri:0, instance:mod3.TA.TestNGLogin@4da4253]" started-at="2022-04-06T22:37:49 IST" name="Login" finished-at="2022-04-06T22:37:56 IST" duration-ms="6606" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Login -->
-        <test-method is-config="true" signature="AfterLogin()[pri:0, instance:mod3.TA.TestNGLogin@4da4253]" started-at="2022-04-06T20:05:46 IST" name="AfterLogin" finished-at="2022-04-06T20:05:46 IST" duration-ms="162" status="PASS">
+        <test-method is-config="true" signature="AfterLogin()[pri:0, instance:mod3.TA.TestNGLogin@4da4253]" started-at="2022-04-06T22:38:27 IST" name="AfterLogin" finished-at="2022-04-06T22:38:28 IST" duration-ms="336" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- AfterLogin -->
