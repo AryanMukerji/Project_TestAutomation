@@ -19,5 +19,7 @@ public class Login
 		driver.findElement(By.id("wpName1")).sendKeys("mayank_is_me");
 		driver.findElement(By.id("wpPassword1")).sendKeys("me_is_mayank");
 		driver.findElement(By.id("wpLoginAttempt")).click();
+		
+		driver.close();
 	}
 }

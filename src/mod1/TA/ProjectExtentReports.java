@@ -39,7 +39,7 @@ public class ProjectExtentReports
 		chromeDriver.get(baseurl);
 	}
 
-	@Test(priority=0)
+	@Test(priority=0, enabled=true)
 	public void verifyingTitle()
 	{
 		// Inspecting the page - Check the title name under HTML tag
@@ -57,13 +57,13 @@ public class ProjectExtentReports
 		}
 	}
 	
-	@Test(priority=1)
+	@Test(priority=1, enabled=true)
 	public void goToValorant()
 	{
 		chromeDriver.findElement(By.partialLinkText("VALORANT")).click();
 	}
 	
-	@Test(priority=2)
+	@Test(priority=2, enabled=true)
 	public void clickOnSign()
 	{
 		chromeDriver.findElement(By.id("pt-login")).click();
@@ -80,7 +80,7 @@ public class ProjectExtentReports
 		}
 	}
 
-	@Test(priority=3)
+	@Test(priority=3, enabled=true)
 	public void enterYourLoginName()
 	{
 		WebElement email = chromeDriver.findElement(By.id("wpName1"));
@@ -98,7 +98,7 @@ public class ProjectExtentReports
 		}
 	}
 
-	@Test(priority=4)
+	@Test(priority=4, enabled=true)
 	public void pressContinueAfterLoginNameIsEntered()
 	{
 		WebElement continueButton = chromeDriver.findElement(By.id("wpPassword1"));

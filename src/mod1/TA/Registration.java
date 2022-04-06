@@ -24,5 +24,7 @@ public class Registration
 		driver.findElement(By.id("regf1")).sendKeys("500076374@stu.upes.ac.in");
 		
 		driver.findElement(By.cssSelector("#create_account > form:nth-child(1) > input:nth-child(7)")).click();
+		
+		driver.close();
 	}
 }

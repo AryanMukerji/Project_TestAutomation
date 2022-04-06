@@ -21,7 +21,7 @@ public class ExcelReader
 		
 		try 
 		{
-			FileInputStream file = new FileInputStream("C:\\Users\\aryan\\OneDrive\\Desktop\\UPES Content\\Semester 6\\Test Automation\\EndSem Project\\ReadData.xlsx");
+			FileInputStream file = new FileInputStream("E:\\Eclipse\\Eclipse_Workspace_Java\\TestAutomation.Project\\ReadData.xlsx");
 			try (XSSFWorkbook wb = new XSSFWorkbook(file)) 
 			{
 				XSSFSheet sheet = wb.getSheet("Login");
@@ -41,7 +41,7 @@ public class ExcelReader
 						Email = row.getCell(0).toString();
 					}
 					
-					Password = row.getCell(1).getRawValue();
+					Password = row.getCell(1).toString();
 					
 					login(Email, Password);
 				}
@@ -78,6 +78,6 @@ public class ExcelReader
 		driver.findElement(By.id("wpLoginAttempt")).click();
 		driver.close();
 		
-		System.out.println("\n Email Used : " + Email + "\n Password Used : " + Password);
+		System.out.println("\n Email Used : " + Email + "\n Password Used : " + Password + "\n");
 	}
 }

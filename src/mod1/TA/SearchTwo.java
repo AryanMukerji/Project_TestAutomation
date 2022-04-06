@@ -26,5 +26,7 @@ public class SearchTwo
 		d = driver.findElement(By.className("infobox-cell-2")).isDisplayed();
 		
 		System.out.println("\n a: " + a + "\n b: " + b + "\n c: " + c + "\n d: " + d);
+		
+		driver.close();
 	}
 }

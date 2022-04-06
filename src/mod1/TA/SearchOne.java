@@ -26,5 +26,7 @@ public class SearchOne
 		d = driver.findElement(By.xpath("//*[@id=\"History\"]")).isDisplayed();
 		
 		System.out.println("\n a: " + a + "\n b: " + b + "\n c: " + c + "\n d: " + d);
+		
+		driver.close();
 	}
 }
