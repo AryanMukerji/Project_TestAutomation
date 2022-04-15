@@ -53,6 +53,28 @@
 ![extent1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/extent1.jpeg)
 ![extent2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/extent2.jpeg)
 
+<br/>
+<br/>
+
+## Implement the parameterized data for the automation script build in starting
+
+![dataprovider](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/Dataprovider1.jpeg)
+
+<br/>
+<br/>
+
+## Use the data driven test automation framework to parameterize the data
+
+![testng1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/testng1.jpeg)
+![testng2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/testng2.jpeg)
+![testng3](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/testng3.jpeg)
+![testng4](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/testng4.jpeg)
+![testng5](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/testng5.jpeg)
+![testng6](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/testng6.jpeg)
+![testng7](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/testng7.jpeg)
+
+
+
 
 ## 👥 Contributors
 
