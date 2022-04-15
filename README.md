@@ -36,11 +36,10 @@
 
 ## Build an automation script for searching details of a game (PGL)
 
-![Search2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl1.jpeg)
-![Search1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl2.jpeg)
-![Search5](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl3.jpeg)
-![Search3](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl4.jpeg)
-![Search4](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl5.jpeg)
+![pgl2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl2.jpeg)
+![pgl1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl1.jpeg)
+![pgl5](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl5.jpeg)
+![pgl4](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl4.jpeg)
 
 
 
