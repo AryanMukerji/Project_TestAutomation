@@ -6,13 +6,24 @@
 
 ![login1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/login1.jpeg)
 
+![login5](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/login5.jpeg)
+
 ![login2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/login2.jpeg)
 
 ![login3](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/login3.jpeg)
 
 ![login4](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/login4.jpeg)
 
-![login5](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/login5.jpeg)
+
+## Build an automation script for registration for eCommerce platform
+
+![signup1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/signup1.jpeg)
+
+![signup2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/signup2.jpeg)
+
+![signup3](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/signup3.jpeg)
+
+![signup4](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/signup4.jpeg)
 
 
 
