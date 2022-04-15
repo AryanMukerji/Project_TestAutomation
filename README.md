@@ -72,6 +72,45 @@
 ![testng5](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/testng5.jpeg)
 ![testng6](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/testng6.jpeg)
 ![testng7](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/testng7.jpeg)
+![testng8](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/testng.jpeg)
+
+<br/>
+<br/>
+
+## Integrate automation scripts with Jenkins for execution on build deployment   
+
+![jenkins1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/jenkins1.jpeg)
+![jenkins2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/jenkins2.jpeg)
+![jenkins3](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/jenkins3.jpeg)
+![jenkins4](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/jenkins4.jpeg)
+![jenkins5](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/jenkins5.jpeg)
+![jenkins6](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/jenkins6.jpeg)
+![jenkins7](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/jenkins7.jpeg)
+
+<br/>
+<br/>
+
+## Refactor your test code for Login ,Search Page and Article details page
+
+![excel1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel1.jpeg)
+![excel2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel2.jpeg)
+![excel3](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel3.jpeg)
+![excel4](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel4.jpeg)
+![excel5](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel5.jpeg)
+![excel6](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel6.jpeg)
+![excel7](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel7.jpeg)
+![excel8](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel8.jpeg)
+![excel9](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel9.jpeg)
+![excel10](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel10.jpeg)
+![excel11](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel11.jpeg)
+![excel12](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel12.jpeg)
+![excel13](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel13.jpeg)
+![excel14](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel14.jpeg)
+![excel15](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel15.jpeg)
+![excel16](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excelreader.jpeg)
+
+
+
 
 
 
