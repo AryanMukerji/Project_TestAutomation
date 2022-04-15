@@ -2,6 +2,20 @@
 
 ![this is the alternate text for the image](https://blog.autify.com/static/0b1fa7c84cc543a52641d6395ad328c0/553fd/selenium-logo.png)
 
+## Build an automation script for login for eCommerce platform
+
+![login1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/login1.jpeg)
+
+![login2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/login2.jpeg)
+
+![login3](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/login3.jpeg)
+
+![login4](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/login4.jpeg)
+
+![login5](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/login5.jpeg)
+
+
+
 ## 👥 Contributors
 
 - **[@AryanMukerji](https://github.com/AryanMukerji)**
