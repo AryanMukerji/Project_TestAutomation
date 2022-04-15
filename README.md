@@ -110,7 +110,13 @@
 ![excel16](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excelreader.jpeg)
 
 
+<br/>
+<br/>
 
+## Execute automation script developed on Chrome and Firefox browsers  
+
+![firefox1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/chrome1.png)
+![firefox2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/chrome2.png)
 
 
 
