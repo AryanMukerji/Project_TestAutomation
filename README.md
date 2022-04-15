@@ -34,6 +34,10 @@
 ![Search3](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/search3.jpeg)
 ![Search4](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/search4.jpeg)
 
+
+<br/>
+<br/>
+
 ## Build an automation script for searching details of a game (PGL)
 
 ![pgl2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl2.jpeg)
@@ -41,8 +45,13 @@
 ![pgl5](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl5.jpeg)
 ![pgl4](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl4.jpeg)
 
+<br/>
+<br/>
 
+## Integrate extent report with automation scripts for result reporting
 
+![extent1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/extent1.jpeg)
+![extent2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/extent2.jpeg)
 
 
 ## 👥 Contributors
