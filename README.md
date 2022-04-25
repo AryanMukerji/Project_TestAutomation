@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-## Build an automation script for login for eCommerce platform
+## > Build an automation script for login for eCommerce platform
 
 ![login1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/login1.jpeg)
 ![login5](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/login5.jpeg)
