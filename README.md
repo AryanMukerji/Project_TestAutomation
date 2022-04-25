@@ -16,7 +16,7 @@
 <br/>
 <br/>
 
-## Build an automation script for registration for eCommerce platform
+## > Build an automation script for registration for eCommerce platform
 
 ![signup1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/signup1.jpeg)
 ![signup2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/signup2.jpeg)
@@ -26,7 +26,7 @@
 <br/>
 <br/>
 
-## Build an automation script for searching details of a game (Team Liquid)
+## > Build an automation script for searching details of a game (Team Liquid)
 
 ![Search2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/search2.jpeg)
 ![Search1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/search1.jpeg)
@@ -38,7 +38,7 @@
 <br/>
 <br/>
 
-## Build an automation script for searching details of a game (PGL)
+## > Build an automation script for searching details of a game (PGL)
 
 ![pgl2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl2.jpeg)
 ![pgl1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/pgl1.jpeg)
@@ -48,7 +48,7 @@
 <br/>
 <br/>
 
-## Integrate extent report with automation scripts for result reporting
+## > Integrate extent report with automation scripts for result reporting
 
 ![extent1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/extent1.jpeg)
 ![extent2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/extent2.jpeg)
@@ -56,14 +56,14 @@
 <br/>
 <br/>
 
-## Implement the parameterized data for the automation script build in starting
+## > Implement the parameterized data for the automation script build in starting
 
 ![dataprovider](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/Dataprovider1.jpeg)
 
 <br/>
 <br/>
 
-## Use the data driven test automation framework to parameterize the data
+## > Use the data driven test automation framework to parameterize the data
 
 ![testng1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/testng1.jpeg)
 ![testng2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/testng2.jpeg)
@@ -77,7 +77,7 @@
 <br/>
 <br/>
 
-## Integrate automation scripts with Jenkins for execution on build deployment   
+## > Integrate automation scripts with Jenkins for execution on build deployment   
 
 ![jenkins1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/jenkins1.jpeg)
 ![jenkins2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/jenkins2.jpeg)
@@ -90,7 +90,7 @@
 <br/>
 <br/>
 
-## Refactor your test code for Login ,Search Page and Article details page
+## > Refactor your test code for Login ,Search Page and Article details page
 
 ![excel1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel1.jpeg)
 ![excel2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/excel2.jpeg)
@@ -113,7 +113,7 @@
 <br/>
 <br/>
 
-## Execute automation script developed on Chrome and Firefox browsers  
+## > Execute automation script developed on Chrome and Firefox browsers  
 
 ![firefox1](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/chrome1.png)
 ![firefox2](https://github.com/Tani21/Project_TestAutomation/blob/main/ReadmeScreenshots/chrome2.png)
